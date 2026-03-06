@@ -1,0 +1,112 @@
+{
+    "videos": [
+        {
+            "id": "v1",
+            "title": "まうふぃん: 最速建築テクニック集 | キル集",
+            "pro": "まうふぃん (Riddle)",
+            "game": "fortnite",
+            "tag": "キル集",
+            "platform": "youtube",
+            "url": "https://www.youtube.com/results?search_query=まうふぃん+フォートナイト+キル集"
+        },
+        {
+            "id": "v2",
+            "title": "ネフライト: 初心者に贈る建築講座 完全版",
+            "pro": "ネフライト",
+            "game": "fortnite",
+            "tag": "解説",
+            "platform": "youtube",
+            "url": "https://www.youtube.com/results?search_query=ネフライト+フォートナイト+解説"
+        },
+        {
+            "id": "v3",
+            "title": "ぼぶくん: 1v4 無双キル集 | Season最新",
+            "pro": "ぼぶくん",
+            "game": "fortnite",
+            "tag": "キル集",
+            "platform": "youtube",
+            "url": "https://www.youtube.com/results?search_query=ぼぶくん+フォートナイト+キル集"
+        },
+        {
+            "id": "v4",
+            "title": "りむる: 世界大会アリーナハイライト",
+            "pro": "りむる",
+            "game": "fortnite",
+            "tag": "ハイライト",
+            "platform": "twitch",
+            "url": "https://www.youtube.com/results?search_query=りむる+フォートナイト+ハイライト"
+        },
+        {
+            "id": "v5",
+            "title": "まうふぃん×ネフライト: 最強デュオ解説付きプレイ",
+            "pro": "まうふぃん / ネフライト",
+            "game": "fortnite",
+            "tag": "解説",
+            "platform": "youtube",
+            "url": "https://www.youtube.com/results?search_query=まうふぃん+ネフライト+デュオ"
+        },
+        {
+            "id": "v6",
+            "title": "Ras (CR): 圧倒的キャラコン キル集 | Apex Legends",
+            "pro": "Ras (Crazy Raccoon)",
+            "game": "apex",
+            "tag": "キル集",
+            "platform": "youtube",
+            "url": "https://www.youtube.com/results?search_query=Ras+Apex+キル集"
+        },
+        {
+            "id": "v7",
+            "title": "YukaF: Wingman Only チャレンジ | 神エイム",
+            "pro": "YukaF (Fnatic)",
+            "game": "apex",
+            "tag": "キル集",
+            "platform": "twitch",
+            "url": "https://www.youtube.com/results?search_query=YukaF+Apex+Wingman"
+        },
+        {
+            "id": "v8",
+            "title": "Selly: 人間オートエイムの実力 | ALGS振り返り解説",
+            "pro": "Selly",
+            "game": "apex",
+            "tag": "解説",
+            "platform": "youtube",
+            "url": "https://www.youtube.com/results?search_query=Selly+Apex+解説"
+        },
+        {
+            "id": "v9",
+            "title": "ありさか: 初心者がランク上げるためのコツ完全版",
+            "pro": "ありさか",
+            "game": "apex",
+            "tag": "解説",
+            "platform": "youtube",
+            "url": "https://www.youtube.com/results?search_query=ありさか+Apex+解説"
+        },
+        {
+            "id": "v10",
+            "title": "CR Cup ハイライト: Apex Legends 最強決定戦",
+            "pro": "Crazy Raccoon",
+            "game": "apex",
+            "tag": "ハイライト",
+            "platform": "twitch",
+            "url": "https://www.youtube.com/results?search_query=CR+Cup+Apex+ハイライト"
+        },
+        {
+            "id": "v11",
+            "title": "ZETA DIVISION Laz: Valorant VCT キル集",
+            "pro": "Laz (ZETA DIVISION)",
+            "game": "fortnite",
+            "tag": "キル集",
+            "platform": "x",
+            "url": "https://www.youtube.com/results?search_query=Laz+ZETA+VCT+キル集"
+        },
+        {
+            "id": "v12",
+            "title": "StylishNoob: 最新シーズン ランク戦 配信切り抜き",
+            "pro": "StylishNoob",
+            "game": "apex",
+            "tag": "ハイライト",
+            "platform": "twitch",
+            "url": "https://www.youtube.com/results?search_query=StylishNoob+Apex+配信"
+        }
+    ]
+}
